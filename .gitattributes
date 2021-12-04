@@ -1,0 +1,5 @@
+*.sh text eol=lf
+Dockerfile* text eol=lf
+composer text eol=lf
+docker-php-entrypoint text eol=lf
+.bashrc  text eol=lf
